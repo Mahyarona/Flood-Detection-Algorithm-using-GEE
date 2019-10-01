@@ -1,6 +1,6 @@
 # Flood-Detection-Algorithm-using-GEE
 
-| ![A Sample of Flood Detection Regions \label{fig:6-1}](https://github.com/Mahyarona/Flood-Detection-Algorithm-using-GEE/blob/master/FloodMap.tif) | 
+| ![A Sample of Flooded Regions along with Affected Population \label{fig:1}](https://github.com/Mahyarona/Flood-Detection-Algorithm-using-GEE/blob/master/Flood_Affected_pop.png) | 
 |:--:| 
 | *Fig 1. A Sample of Flooded Regions along with Affcetd Population * |
 
